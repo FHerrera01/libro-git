@@ -1,0 +1,2 @@
+Capítulo 1: introducción a Git
+Capítulo 2: flujo de trabajo básico
